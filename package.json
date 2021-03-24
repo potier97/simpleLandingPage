@@ -1,0 +1,23 @@
+{
+  "name": "simple-landing",
+  "version": "1.0.0",
+  "description": "Simple landing Page on html-Css-Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potier97/simpleLandingPage.git"
+  },
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "author": "Nicolás Potier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/potier97/simpleLandingPage/issues"
+  },
+  "homepage": "https://github.com/potier97/simpleLandingPage#readme"
+}
