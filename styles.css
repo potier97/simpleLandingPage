@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient( rgba(242, 100, 31, 0.5), rgba(244, 48, 40, 0.5)), url('img/gta-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+
+.logo {
+    height: 84px;
+    margin-top: 20px;
+}
+
+.img-fluid {
+    border-bottom: 8px solid #fff;
+    border-radius: 8px;
+}
+
+.text-description {
+    letter-spacing: 2px;
+    font-family: sans-serif;
+}
+
+.form-control {
+    background: transparent !important;
+    color: #fff im !important
+}
